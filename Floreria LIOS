@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Página Web Floreria</title>
+<style>
+  body {
+    background-color: #87CEEB; /* Color de fondo */
+    color: #333; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipo de fuente */
+    font-size: 16px; /* Tamaño de fuente */
+  }
+  h1 {
+    color: #000000; /* Color del título principal */
+  }
+  h2 {
+    color: #000000; /* Color del subtítulo */
+  }
+  .underline {
+    text-decoration: underline; /* Texto subrayado */
+  }
+</style>
+</head>
+<body>
+ <h1><center><fonte size= 7><i> "FLORERIA </center></h1>
+ <h1><center><big> LIOS" </i></font></center></h1>
+ <P><h2><center><font size= 6> "Expresa tus sentimientos con un hermoso detalle"</center></2></p>
+ <hr> <!-- Línea horizontal -->
+ <P><h2><center> ¡...Te ofrecemos grandes ofertas...! </center></h2></P></font>
+ <br>
+ <p><h2><i><font color= #000000><font size=6> En tan solo $1,500 pesos ramos buchones </font></i></h2></p>
+     <img src="file:///C:/Users/acer/Desktop/ramo%20buchon.webp"/>
+<hr>
+<h2><center><font size=6>Tambien contamos con:</h2></center></font>
+<p><font size=5><strong><span class="underline">Diferentes estilos de arreglos florales
+ como Ramo bouquet y Centro de mesa con flores naturales.</p> </strong></span></font>
+     <center><img src="https://m1.paperblog.com/i/341/3418409/ramos-toques-blanco-morado-L-AFnohg.jpeg "/></center>
+     <center><img src="https://centrosdemesa.co/wp-content/uploads/2017/04/Alejandra-Vita-Planeador-de-Bodas-centros-de-mesa-rojos.jpg"> </center>
+<hr>
+   <h2><font color= #FF0000><CENTER> NO TE OLVIDES QUE Al SOLICITAR ESTOS PRODUCTOS DOMICILIO SOLO AUMENTARA LA CANTIDAD DE $50 PESITOS...!!!! </font></h2>
+<ul>
+  <li><i><font color= FFFFFF>Ramo de rosas con 200 piezas...en $350</li>
+  <li> Arreglos florales de boda,xv, bautizo etc $800 pesos c/u </li>
+  <li> Ramos bouquet en $385 pesos <font></i></li>
+<img src="https://m.media-amazon.com/images/I/51y7cpR0OvL.jpg " />
+<img src=" https://cdn0.bodas.com.mx/usr/4/1/3/5/cfb_2x_599586.jpg"/>
+<center><img src=" https://www.florlopoli.com/wp-content/uploads/2024/01/Ramo-100-Rosas-Rojas-y-Mariposas.jpg"/> </center>
+</ul>
+</body>
+</html>
